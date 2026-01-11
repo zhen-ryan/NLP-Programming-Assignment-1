@@ -1,0 +1,4 @@
+Framework	Mean(s)	Std(s)
+NLTK	0.0711	0.0060
+TextBlob	0.1146	0.0050
+spaCy	4.7458	0.6289

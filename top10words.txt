@@ -1,0 +1,10 @@
+said: 462
+alice: 398
+little: 128
+one: 104
+know: 88
+like: 85
+would: 83
+went: 83
+could: 77
+queen: 75
